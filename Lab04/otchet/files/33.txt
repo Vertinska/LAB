@@ -1,0 +1,97 @@
+    PID TTY          TIME CMD
+   1329 ?        00:00:00 systemd
+   1330 ?        00:00:00 (sd-pam)
+   1339 ?        00:00:00 pipewire
+   1340 ?        00:00:00 pipewire
+   1343 ?        00:00:00 wireplumber
+   1344 ?        00:00:00 pipewire-pulse
+   1345 ?        00:00:00 gnome-keyring-d
+   1350 ?        00:00:00 dbus-daemon
+   1364 ?        00:00:00 xfce4-session
+   1504 ?        00:00:00 VBoxClient
+   1505 ?        00:00:00 VBoxClient
+   1519 ?        00:00:00 VBoxClient
+   1520 ?        00:00:00 VBoxClient
+   1527 ?        00:00:00 VBoxClient
+   1529 ?        00:00:01 VBoxClient
+   1534 ?        00:00:00 VBoxClient
+   1537 ?        00:00:00 VBoxClient
+   1630 ?        00:00:00 gvfsd
+   1636 ?        00:00:00 gvfsd-fuse
+   1638 ?        00:00:00 at-spi-bus-laun
+   1652 ?        00:00:00 dbus-daemon
+   1654 ?        00:00:00 xfconfd
+   1660 ?        00:00:00 at-spi2-registr
+   1668 ?        00:00:00 ssh-agent
+   1677 ?        00:00:00 gpg-agent
+   1680 ?        00:00:03 xfwm4
+   1686 ?        00:00:00 xfsettingsd
+   1690 ?        00:00:02 xfce4-panel
+   1695 ?        00:00:00 Thunar
+   1701 ?        00:00:00 xfdesktop
+   1702 ?        00:00:00 panel-1-whisker
+   1706 ?        00:00:00 panel-8-systray
+   1709 ?        00:00:01 panel-9-notific
+   1711 ?        00:00:00 panel-10-xapp-s
+   1712 ?        00:00:00 panel-11-power-
+   1713 ?        00:00:00 panel-12-pulsea
+   1736 ?        00:00:00 dconf-service
+   1744 ?        00:00:01 dunst
+   1756 ?        00:00:02 mintreport-tray
+   1760 ?        00:00:00 blueman-applet
+   1764 ?        00:00:00 light-locker
+   1767 ?        00:00:00 evolution-alarm
+   1776 ?        00:00:00 gvfs-udisks2-vo
+   1788 ?        00:00:00 gvfs-gphoto2-vo
+   1801 ?        00:00:00 gvfs-mtp-volume
+   1808 ?        00:00:00 gvfs-afc-volume
+   1817 ?        00:00:00 gvfs-goa-volume
+   1824 ?        00:00:00 goa-daemon
+   1830 ?        00:00:00 agent
+   1840 ?        00:00:00 goa-identity-se
+   1851 ?        00:00:00 applet.py
+   1859 ?        00:00:00 nm-applet
+   1866 ?        00:00:00 xfce4-power-man
+   1867 ?        00:00:00 polkit-gnome-au
+   1870 ?        00:00:00 xiccd
+   1965 ?        00:00:00 evolution-sourc
+   1992 ?        00:00:00 evolution-calen
+   2005 ?        00:00:00 evolution-addre
+   2033 ?        00:00:00 obexd
+   2035 ?        00:00:00 mintUpdate
+   2072 ?        00:00:32 firefox-bin
+   2114 ?        00:00:00 Socket Process
+   2118 ?        00:00:00 xdg-desktop-por
+   2127 ?        00:00:00 xdg-document-po
+   2134 ?        00:00:00 xdg-permission-
+   2149 ?        00:00:00 xdg-desktop-por
+   2158 ?        00:00:00 xdg-desktop-por
+   2174 ?        00:00:00 Privileged Cont
+   2221 ?        00:00:01 xfce4-terminal
+   2227 ?        00:00:00 WebExtensions
+   2256 pts/0    00:00:02 zsh
+   2272 pts/0    00:00:00 zsh
+   2305 pts/0    00:00:00 zsh
+   2307 pts/0    00:00:00 zsh
+   2308 pts/0    00:00:00 gitstatusd-linu
+   2321 ?        00:00:00 Utility Process
+   2335 ?        00:00:02 Isolated Web Co
+   2337 ?        00:00:00 Web Content
+   2361 ?        00:00:00 Web Content
+   2464 ?        00:00:00 Web Content
+   2508 ?        00:00:00 gvfsd-metadata
+   2509 ?        00:00:07 file:// Content
+   2558 ?        00:00:00 gvfsd-trash
+   2614 ?        00:00:02 code
+   2618 ?        00:00:00 code
+   2619 ?        00:00:00 code
+   2621 ?        00:00:00 code
+   2640 ?        00:00:00 chrome_crashpad
+   2654 ?        00:00:01 code
+   2659 ?        00:00:00 code
+   2680 ?        00:00:08 code
+   2692 ?        00:00:01 code
+   2702 ?        00:00:01 code
+   2703 ?        00:00:00 code
+   2743 ?        00:00:00 code
+   4697 pts/0    00:00:00 ps

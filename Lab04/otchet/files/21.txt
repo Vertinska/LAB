@@ -1,0 +1,11 @@
+/home/alena/.mozilla/extensions
+/home/alena/.cache/obexd
+/home/alena/Desktop
+/home/alena/Videos
+/home/alena/Music
+/home/alena/.vscode/cli
+/home/alena/Templates
+/home/alena/Public
+/home/alena/.config/xviewer
+/home/alena/.config/goa-1.0
+/home/alena/.gnupg/private-keys-v1.d
